@@ -1,0 +1,189 @@
+
+.menu{
+    
+    display:block;
+    
+
+}
+.navbar{
+    width: 33%  ;
+}
+
+#test {
+    background-color:#ff5c57 ;
+    display:inline;
+    border-left: 3px solid #001662;
+    border-top: 3px solid #001662;
+    padding: 15px
+    
+}
+
+
+h1 {
+    color: #ff5c57;
+    font-family:'Guillon';
+
+    }
+h3 {
+    color: #001662;
+    font-family:'Guillon';
+    
+    }
+h2 {
+    color: #001662;
+    font-family:'Guillon';
+}
+p::Hikma{ 
+     background-color: #ff5c57;
+     font-family:'Guillon';
+ }
+p {
+    color: #001662;
+    margin:10px;
+    font-family:'Guillon';
+}
+
+ul {
+    color: #001662;
+    font-family:'Guillon';
+}
+img{
+    width: 100%
+}
+
+.texteditor {
+    min-height: 300px;
+    width: 100%;
+    border: 1px solid #001662;
+}
+.editor-commands {
+    font-size: 30px;
+    background-color: #ff5c57;
+    display:inline;
+    position: relative;
+    
+    
+
+} 
+
+button {
+    font-size: 20px;
+}
+
+select {
+    font-size: 20px;
+}
+
+.base{
+max-width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1em;
+    padding-top: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+display: inline-block;
+height: 30px;
+     }
+
+
+
+.company h3{
+    display: inline-block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    
+}
+.company{
+    background: #ff5c57;
+    padding: 2em; 
+    width: 33%;
+   display: inline-block;
+   height: 519px;
+   line-height: 1.6;
+}
+
+.company ul {
+list-style: none;
+margin-top: 0;
+
+}
+
+
+body{
+    line-height: 1.6;
+}
+.formulaire{
+    display:inline-block;
+    padding-left: 20px;
+    width: 59%;
+    margin: 0;
+   height: 581px;
+   overflow: hidden;
+    background: #001662;
+    line-height: 2;
+}
+
+
+.formulaire h3{
+    color: #ff5c57;
+    font-size: 1.17em;
+    
+    font-weight: bold;
+    display: inline-block;
+    
+   
+ }
+ 
+.formulaire p{
+    margin: 0px !important ;
+
+}
+
+
+ form{
+     color: #ff5c57 !important ;
+ }
+
+ #Track{
+     margin-left: 40px;
+     margin-right: 400px;
+ } 
+
+ form p{
+     color: #ff5c57;
+ }
+
+ #texte {
+     width: 98%;
+ }
+ input {
+     width: 30%;
+     -webkit-appearance: textfield;
+    background-color: white;
+    -webkit-rtl-ordering: logical;
+   height: 20px;
+ }
+
+ .formulaire form button {
+     color:  #001662;
+     background:#ff5c57 ;
+    border: 0;
+
+    width: 99%;
+
+}
+
+#submit:hover{
+    color: aliceblue;
+}
+select{
+    align-items: center;
+    font-size: 1.17em;
+    margin-right: 0% !important;
+}
